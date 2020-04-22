@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Sen|Ubuntu&display=swap');
+
+body{
+	font-family: 'Sen', sans-serif;
+	background-color: #FFFAF0;
+}
+
+section {
+	width: 60%;
+	margin: 10px auto;
+}
+span {
+	background-color: rgb(100, 200, 250);
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding: 12px 50px;
+}
+nav {
+	width: 75%;
+	text-align: center;
+	margin: 0px auto;
+} 
+
+h3{
+	background-color: #00BFFF;
+}
+
+h1{
+	font-family: 'Roboto Mono', monospace;
+}
+
+p {
+	font-family: 'Consolas', sans-serif;
+}
+
+table{
+	background-color: #b0e0e6;
+	text-align: center;
+	margin: 0 auto;
+	font-family: 'Roboto Mono', monospace;
+	width: 200px;
+}
+
+table, tr, td{
+	border-collapse: collapse;
+	border:solid 1px #000000;
+}
+
+div.container{
+	margin: 0 auto 0;
+}
+
+.blue{
+	color: #4169E1;
+	text-align: center;
+}
+
+.font2{
+	font-family: 'Ubuntu', sans-serif;
+	color: rgb(50, 150, 200);
+	font-size: 22px;
+	
+}
+
+.text1 { 
+	text-align: center;
+	font-size: 16px;
+}
+	
+.right {
+	text-align: right;
+}
