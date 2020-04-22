@@ -9,17 +9,19 @@ section {
 	width: 60%;
 	margin: 10px auto;
 }
-li {
+nav li {
 	background-color: rgb(100, 200, 250);
 	display: inline-block;
 	text-align: center;
 	position: relative;
 	padding: 12px 50px;
 }
-ul {
+nav ul {
 	width: 75%;
 	text-align: center;
 	margin: 0px auto;
+	display: inline-block;
+	text-align: center;
 } 
 
 h3{
