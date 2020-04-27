@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Sen|Ubuntu&display=swap');
-
+.MAP {
+  width: 700px;
+  height: 600px;
+  background-color: white;
+  margin: auto;
+  box-shadow: 10px 5px 10px;  
+ 
+  margin-bottom: 50px;
+}
 body{
 	font-family: 'Sen', sans-serif;
 	background-color: #FFFAF0;
