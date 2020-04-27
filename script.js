@@ -13,6 +13,5 @@ marker= new google.maps.Marker({
 	draggable:true,
 	animation:google.maps.Animation.BOUNCE,
 	position:new google.maps.LatLng(6.219131, -75.566329),
-//icon:'images/house6.jpg'
 });
 }
