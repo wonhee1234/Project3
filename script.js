@@ -17,5 +17,6 @@ marker= new google.maps.Marker({
 	draggable:true,
 	animation:google.maps.Animation.BOUNCE,
 	position:new google.maps.LatLng(41.833912,-87.625547),
+	icon:'image/classroom4.jpg'
 });
 }
