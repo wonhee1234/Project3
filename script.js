@@ -10,7 +10,6 @@ map=new google.maps.Map(
 		{center: new google.maps.LatLng(41.835668, -87.624221), zoom:16});
 
 var MSVmarker= new google.maps.Marker({position:MSV,map:map});
-var SSVmarker= new google.maps.Marker({position:SSV,map:map});
 var Classroom= new google.maps.Marker({position:Classroom,map:map});
 
 marker= new google.maps.Marker({
