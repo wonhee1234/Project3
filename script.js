@@ -7,7 +7,7 @@ var Classroom={lat:41.837409, lng:-87.626622};
 var latlang={lat:4.710859,lng:-74.074955};
 mapa=new google.maps.Map(
 		document.getElementById('gmaps'),
-		{center: new google.maps.LatLng(41.835668, -87.624221), zoom:15});
+		{center: new google.maps.LatLng(41.835668, -87.624221), zoom:16});
 
 var marker= new google.maps.Marker({position:latlang,map:map});
 
